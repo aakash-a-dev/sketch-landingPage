@@ -4,7 +4,7 @@ import React from 'react'
 function Hero() {
   return (
      <div className="h-[40rem] w-full flex flex-col items-center justify-center overflow-hidden rounded-md">
-      <h1 className="md:text-lg text-lg lg:text-9xl font-bold text-center text-primary relative z-20">
+      <h1 className="md:text-7xl text-5xl lg:text-9xl font-bold text-center text-primary relative z-20">
         Welcome To My Art Universe
       </h1>
       <div className="w-[40rem] h-40 relative">
